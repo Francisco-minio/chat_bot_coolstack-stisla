@@ -1,0 +1,2 @@
+module SadminestsHelper
+end

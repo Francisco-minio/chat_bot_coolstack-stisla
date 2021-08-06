@@ -1,0 +1,2 @@
+module AsigprofesorsHelper
+end
